@@ -5,7 +5,7 @@
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over using the command prompt: net user.  Just typing net user and not the username name after it - will give you a horizontal list of user accounts on that computer. Also, the domain account name (if the computer is connected to a domain). However, not any domain usernames associated with the computer created in Active Directory. 
+This project goes over using the command prompt: net user.  Just typing net user and not the username name after it - will give you a horizontal list of user accounts on that computer. Also, the domain name from Active Directory the computer is connected to (if the computer is connected to a domain). However, not any domain usernames associated with the computer created in Active Directory. 
 </b>
 
 
