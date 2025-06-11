@@ -56,7 +56,7 @@ This project goes over using the command prompt: net user.  Just typing net user
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: the username: patty, who I am signed-in as,  was created in Active Directory under the domain: CLIENT2KIS. So patty does not display using net user, only the domain CLIENT2KIS.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: the username: patty, who I am signed-in as,  was created in Active Directory under the domain: CLIENT2KIS. So patty does not display using net user, only the domain CLIENT2KIS, because patty was never created on the local computer.</b></span>  
 <br/><br/>
 
 
